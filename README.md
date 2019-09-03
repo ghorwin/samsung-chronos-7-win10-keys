@@ -24,5 +24,8 @@ Once loaded, the script will add support for the three keys mentioned above.
 
 The scripts relies on the functionality from https://github.com/qwerty12/AutoHotkeyScripts/tree/master/LaptopBrightnessSetter whose author has adapted code from https://github.com/YashMaster/Tweaky. Thanks guys!
 
+
+[![Github All Releases](https://img.shields.io/github/downloads/ghorwin/samsung-chronos-7-win10-keys/total.svg)]()
+
 ----
 [Download stats](https://www.somsubhra.com/github-release-stats/?username=ghorwin&repository=samsung-chronos-7-win10-keys)
